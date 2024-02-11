@@ -257,3 +257,20 @@ SDS (Software Defined Storage) - Armazenamento definido por software
 SDN (Software Defined Network) - Rede definida por software
 
 NFS (Network File System) - Sistema de arquivos de rede
+
+# Database (Banco de Dados)
+
+Database (Banco de Dados) - Conjunto de dados organizados e estruturados que podem ser armazenados, acessados e gerenciados por um sistema de computador
+
+DBMS (Database Management System) - Sistema de gerenciamento de banco de dados
+
+CAP Theorem - Teorema CAP (Consistência, Disponibilidade e Tolerância a Partição)
+
+ACID (Atomicity, Consistency, Isolation, Durability) - Atomicidade, Consistência, Isolamento e Durabilidade
+
+BASE (Basically Available, Soft state, Eventual consistency) - Basicamente disponível, estado suave e consistência eventual
+
+CP (Consistency, Partition tolerance) - Consistência e tolerância a partição
+
+AP (Availability, Partition tolerance) - Disponibilidade e tolerância a partição
+
